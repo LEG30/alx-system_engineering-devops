@@ -1,1 +1,1 @@
-Script in work mode
+Script in operation
