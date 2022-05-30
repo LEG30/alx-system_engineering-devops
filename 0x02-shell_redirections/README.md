@@ -1,1 +1,1 @@
-Working script in print mode
+Script in work mode
