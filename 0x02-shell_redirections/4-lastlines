@@ -1,2 +1,2 @@
 #!/bin/bash
-tail [-[10] [lbcr] ] [/etc/passwd] 
+tail /etc/passwd. txt 
